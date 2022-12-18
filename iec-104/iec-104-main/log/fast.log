@@ -1,0 +1,8 @@
+12/19/2022-00:38:15.820404  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:36816 -> 127.0.0.1:2404
+12/19/2022-00:38:15.802872  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:36810 -> 127.0.0.1:2404
+12/19/2022-00:38:15.820510  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:2404 -> 127.0.0.1:36816
+12/19/2022-00:38:15.803033  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:2404 -> 127.0.0.1:36810
+12/19/2022-00:38:15.837062  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:36828 -> 127.0.0.1:2404
+12/19/2022-00:38:15.837133  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:2404 -> 127.0.0.1:36828
+12/19/2022-00:38:15.853585  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:36830 -> 127.0.0.1:2404
+12/19/2022-00:38:15.853642  [**] [1:0:0] Deact packet [**] [Classification: (null)] [Priority: 3] {TCP} 127.0.0.1:2404 -> 127.0.0.1:36830

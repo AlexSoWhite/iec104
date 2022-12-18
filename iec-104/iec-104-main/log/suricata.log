@@ -1,0 +1,28 @@
+19/12/2022 -- 00:38:10 - <Notice> - This is Suricata version 6.0.8 RELEASE running in SYSTEM mode
+19/12/2022 -- 00:38:10 - <Info> - CPUs/cores online: 4
+19/12/2022 -- 00:38:10 - <Warning> - [ERRCODE: SC_ERR_CONF_YAML_ERROR(242)] - App-Layer protocol sip enable status not set, so enabling by default. This behavior will change in Suricata 7, so please update your config. See ticket #4744 for more details.
+19/12/2022 -- 00:38:10 - <Warning> - [ERRCODE: SC_ERR_CONF_YAML_ERROR(242)] - App-Layer protocol mqtt enable status not set, so enabling by default. This behavior will change in Suricata 7, so please update your config. See ticket #4744 for more details.
+19/12/2022 -- 00:38:10 - <Warning> - [ERRCODE: SC_ERR_CONF_YAML_ERROR(242)] - App-Layer protocol rdp enable status not set, so enabling by default. This behavior will change in Suricata 7, so please update your config. See ticket #4744 for more details.
+19/12/2022 -- 00:38:10 - <Info> - Found an MTU of 65536 for 'lo'
+19/12/2022 -- 00:38:10 - <Info> - Found an MTU of 65536 for 'lo'
+19/12/2022 -- 00:38:10 - <Info> - fast output device (regular) initialized: fast.log
+19/12/2022 -- 00:38:10 - <Info> - eve-log output device (regular) initialized: eve.json
+19/12/2022 -- 00:38:10 - <Info> - stats output device (regular) initialized: stats.log
+19/12/2022 -- 00:38:10 - <Info> - Running in live mode, activating unix socket
+19/12/2022 -- 00:38:10 - <Info> - 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+19/12/2022 -- 00:38:10 - <Info> - Threshold config parsed: 0 rule(s) found
+19/12/2022 -- 00:38:10 - <Info> - 2 signatures processed. 0 are IP-only rules, 2 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+19/12/2022 -- 00:38:10 - <Info> - Using 1 live device(s).
+19/12/2022 -- 00:38:11 - <Info> - using interface lo
+19/12/2022 -- 00:38:11 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to set feature via ioctl for 'lo': Operation not supported (95)
+19/12/2022 -- 00:38:11 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to set feature via ioctl for 'lo': Operation not supported (95)
+19/12/2022 -- 00:38:11 - <Warning> - [ERRCODE: SC_ERR_SYSCALL(50)] - Failure when trying to set feature via ioctl for 'lo': Operation not supported (95)
+19/12/2022 -- 00:38:11 - <Info> - running in 'auto' checksum mode. Detection of interface state will require 1000ULL packets
+19/12/2022 -- 00:38:11 - <Info> - Found an MTU of 65536 for 'lo'
+19/12/2022 -- 00:38:11 - <Info> - Set snaplen to 65558 for 'lo'
+19/12/2022 -- 00:38:11 - <Warning> - [ERRCODE: SC_ERR_NIC_OFFLOADING(284)] - NIC offloading on lo: RX SET TX SET. Run: ethtool -K lo rx off tx off
+19/12/2022 -- 00:38:11 - <Warning> - [ERRCODE: SC_ERR_NIC_OFFLOADING(284)] - NIC offloading on lo: SG: SET,  GRO: unset, LRO: unset, TSO: unset, GSO: unset. Run: ethtool -K lo sg off gro off lro off tso off gso off
+19/12/2022 -- 00:38:11 - <Info> - RunModeIdsPcapAutoFp initialised
+19/12/2022 -- 00:38:11 - <Info> - Running in live mode, activating unix socket
+19/12/2022 -- 00:38:11 - <Info> - Using unix socket file '/usr/local/var/run/suricata/suricata-command.socket'
+19/12/2022 -- 00:38:11 - <Notice> - all 5 packet processing threads, 4 management threads initialized, engine started.
